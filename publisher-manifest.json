@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f783d5da238e064c354d9926",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-2ae0d92c65818fa66d0b99ae",
+  "title": "鸡哥(iKuuuu)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2ae0d92c65818fa66d0b99ae",
+      "a": "鸡哥(iKuuuu)",
+      "b": "2027最新官网",
+      "entity": "鸡哥(iKuuuu)",
+      "brand": "鸡哥(iKuuuu)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b4ac7f1b3a88447f6d657e276dc5bf25c29a5a5e26f8bc14b79b9755b849bb2e",
+      "content": {
+        "primary_entity": "鸡哥(iKuuuu)",
+        "keyword1": "鸡哥(iKuuuu)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，订阅链接导入后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端说明导入订阅即可开始。",
+          "AI_CLOSING_TITLE": "开始使用鸡哥(iKuuuu)",
+          "AI_DESCRIPTION": "，鸡哥(iKuuuu)提供基础版、旗舰版与团队版三档订阅，分别对应 3 台、5 台与 20 台设备同时在线。月付与年付均可选，年付更省，按需匹配流量与设备数量即可。",
+          "AI_FEATURES_INTRO": "从套餐、设备和订阅周期三个角度了解鸡哥(iKuuuu)。",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、平板、电脑分别安装对应客户端，订阅可同时登录到套餐允许的设备数量。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用选年付更划算。",
+          "AI_FEATURE_TITLE_1": "套餐按需",
+          "AI_FEATURE_TITLE_2": "设备适配",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_GUIDE_INTRO": "三步完成鸡哥(iKuuuu)订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "鸡哥(iKuuuu)围绕日常跨境访问与游戏加速提供三档订阅，覆盖单人、小团队和多设备场景。选择套餐后按设备安装客户端，导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "选对应套餐，连所需设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付低至每月约 ¥12.5 起",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏延迟",
+          "AI_PLANS_INTRO": "基础版适合手机加电脑；旗舰版多设备并享专线；团队版供小型团队共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按每月流量和设备数量，从基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与流媒体、专线适配要求。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "鸡哥(iKuuuu)订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "套餐差异、设备限制与订阅周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并加入 IPLC 专线与全节点流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "团队版适合什么样的使用场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB、支持 20 台设备，配 VIP 高带宽节点和企业定制路由，适合多人共用或小型团队。",
+          "AI_FAQ_QUESTION_3": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850，年付相当于十个月价格。",
+          "AI_FAQ_QUESTION_4": "同时在线设备数超出会怎样？",
+          "AI_FAQ_ANSWER_4": "各套餐对同时在线设备数有明确上限，超出时新设备可能无法连接，建议按实际设备数量选择对应档位。",
+          "AI_FAQ_QUESTION_5": "IPLC 专线主要优化什么体验？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含的 IPLC 专线针对游戏加速和大流量传输优化，降低延迟波动，适合对连接稳定性有要求的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cxpbr.cn",
+    "host": "cxpbr.cn"
+  },
+  "file_hashes": {
+    "index.html": "d764b8eb4ba3da95fd12d0a37bbd817349fea6a5de4529bee994ca3146989910",
+    "sitemap.xml": "b531d7f9e3fefd8776a5867c4a07f64c46802699d9b511e5d6ef92157b927ba2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2ea491bd51ca575c8f9b8aa511b16136be1473679ffc96b87fe9e306b9625633",
+    "robots.txt": "beed025dfc1d80b10e7ca46fc27f5148415f062e643f604a0fba0968ad65e270",
+    "ce3c9306b88309f59bc136af1c4ca333.txt": "3ee11ded23cf70e56abe617949e61c13a448f6037f8b82d0a1d2b9614638a438"
+  },
+  "revision": "3c683215e264ef54f3fcbd25331497472ad6e91f8ed4178bc42013281dc5e2ae"
+}
